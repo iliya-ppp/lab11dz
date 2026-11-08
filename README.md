@@ -11,7 +11,8 @@
 4. Форматирование строк через `sprintf()` и вывод в графической рамке.
 
 ### Блок-схема
-*[Здесь должна быть размещена схема алгоритма]*
+<img width="343" height="740" alt="image" src="https://github.com/user-attachments/assets/fc5bc776-3324-4459-8453-12e58ab472b7" />
+https://app.diagrams.net/#G1vRRii3u1QpeiCehNkik2Xvkuiv7Y_uQF#%7B%22pageId%22%3A%227JqRekFnXGUM7ytAG1yF%22%7D
 
 ## 2. Реализация программы
 ```c
@@ -81,5 +82,5 @@ int main() {
 
 
 ## 4. Информация о разработчике
-Сергеенков Дмитрий бИЦТ-261
+Мамонов Илья Бицт-261
 
